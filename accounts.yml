@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Gopi  accounts related docker APIs for default profile "
+  message: "Welcome to Gopi  accounts related docker APIs for default profile SPRING PROFILE "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
